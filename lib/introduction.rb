@@ -10,9 +10,8 @@ def  introduction_with_language(name,language)
   language = "Ruby"
 end
 
-def introduction_with_language_optional(name, language)
-  language = "computer"
-  introduction_with_language_optional(name)
+def introduction_with_language_optional(name, language = "Ruby")
+  
 end
 
 
