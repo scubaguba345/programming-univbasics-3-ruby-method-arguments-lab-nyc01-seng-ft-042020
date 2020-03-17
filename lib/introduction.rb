@@ -1,6 +1,6 @@
 name = "Brandon"
-introduction = "Hi, my name is #{{name}}. "
-introduction
+introduction = "Hi, my name is #{name}."
+
 
 
 
