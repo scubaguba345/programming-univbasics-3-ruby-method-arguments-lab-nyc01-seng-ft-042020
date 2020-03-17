@@ -1,5 +1,7 @@
+
+def introduction = "Hi, my name is #{name}."
+end
 name = "Brandon"
-introduction = "Hi, my name is #{name}."
 
 
 
